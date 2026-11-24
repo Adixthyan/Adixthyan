@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=220&section=header&text=Adithyan&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%E2%80%A2%20Bot%20Builder%20%E2%80%A2%20Tinkerer&descAlignY=58&descSize=18" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FF7,100:FF00C8&height=240&section=header&text=Adithyan&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Developer%20%E2%80%A2%20Bot%20Builder%20%E2%80%A2%20Tinkerer&descAlignY=60&descSize=18" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=520&lines=I+write.;I+break.;You+sleep.;I+execute." alt="Typing SVG" />
@@ -12,27 +12,27 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Adixthyan&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/Adixthyan?style=for-the-badge&logo=github&color=333333" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=Adixthyan&label=Profile%20views&color=7B2FF7&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Adixthyan?style=for-the-badge&logo=github&color=00F7FF&labelColor=000000" alt="Followers" />
 
 <br/><br/>
 
 <a href="mailto:xdxeno0@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
 </a>
 <a href="https://adithyan.zone.id" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00F7FF" alt="Portfolio" />
 </a>
 <a href="https://instagram.com/4dix_thyan__" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF00C8" alt="Instagram" />
 </a>
 <a href="https://github.com/Adixthyan" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="lights divider" />
 
 <h2 align="center">👨‍💻 About Me</h2>
 
@@ -48,7 +48,7 @@
 
 </div>
 
-<hr/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:7B2FF7,100:FF00C8&height=3&section=header" width="100%" alt="neon line" />
 
 <h2 align="center">⚒️ Tech Stack ⚒️</h2>
 
@@ -67,7 +67,7 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </div>
 
-<hr/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="lights divider" />
 
 <h2 align="center">🚀 Featured Projects</h2>
 
@@ -77,14 +77,14 @@
   </a>
 </div>
 
-<hr/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00C8,50:7B2FF7,100:00F7FF&height=3&section=header" width="100%" alt="neon line" />
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Adixthyan/XENO-SIR-MD/refs/heads/output/github-snake-dark.svg" />
 </div>
 
-<hr/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="lights divider" />
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 
@@ -101,7 +101,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Adixthyan&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" />
 </div>
 
-<hr/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:7B2FF7,100:FF00C8&height=3&section=header" width="100%" alt="neon line" />
 
 <h2 align="center">💬 Quote</h2>
 
@@ -117,4 +117,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00C8,50:7B2FF7,100:00F7FF&height=160&section=footer&animation=twinkling" width="100%" alt="footer" />
