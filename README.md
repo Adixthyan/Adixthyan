@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0505,100:5c0a14&height=240&section=header&text=Adithyan&fontSize=75&fontColor=e6e6e6&animation=fadeIn&fontAlignY=38&desc=Developer%20%E2%80%A2%20Bot%20Builder%20%E2%80%A2%20Tinkerer&descAlignY=60&descSize=18&descColor=9a9a9a" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0505,100:5c0a14&height=240&section=header&text=Adithyan&fontSize=75&fontColor=e6e6e6&animation=fadeIn&fontAlignY=38&desc=Developer%20%E2%80%A2%20Bot%20Builder%20%E2%80%A2%20%F0%9F%96%A5&descAlignY=60&descSize=18&descColor=9a9a9a" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=520&lines=I+write.;I+break.;You+sleep.;I+execute." alt="Typing SVG" />
@@ -31,12 +31,12 @@
 
 | | |
 |:--|:--|
-| **Working on** | WhatsApp bots & web projects |
-| **Learning** | Backend development & automation |
-| **Fun fact** | I break things first, then fix them better |
-| **Based in** | Kerala, India |
-| **Portfolio** | [adithyan.zone.id](https://adithyan.zone.id) |
-| **Reach me** | [xdxeno0@gmail.com](mailto:xdxeno0@gmail.com) |
+| **Working on** | **WhatsApp bots & web projects** |
+| **Learning** | **Backend development & automation** |
+| **Fun fact** | **I break things first, then fix them better** |
+| **Based in** | **Trivandrum, Kerala, India** |
+| **Portfolio** | **[adithyan.zone.id](https://adithyan.zone.id)** |
+| **Reach me** | **[xdxeno0@gmail.com](mailto:xdxeno0@gmail.com)** |
 
 </div>
 
@@ -135,7 +135,10 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adixthyan&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" />
+  <img src="https://img.shields.io/github/stars/Adixthyan/XENO-SIR-MD?style=for-the-badge&logo=github&color=5c0a14&labelColor=0d1117" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/Adixthyan/XENO-SIR-MD?style=for-the-badge&logo=github&color=5c0a14&labelColor=0d1117" alt="Forks" />
+  <img src="https://img.shields.io/github/followers/Adixthyan?style=for-the-badge&logo=github&color=5c0a14&labelColor=0d1117" alt="Followers" />
+  <img src="https://img.shields.io/github/last-commit/Adixthyan/XENO-SIR-MD?style=for-the-badge&logo=git&color=5c0a14&labelColor=0d1117" alt="Last commit" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:5c0a14,100:000000&height=3&section=header" width="100%" alt="divider" />
