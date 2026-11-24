@@ -109,8 +109,8 @@
 <h2 align="center">Featured Projects</h2>
 
 <div align="center">
-  <a href="https://github.com/Adixthyan/XENO-SIR-MD">
-    <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Adixthyan&repo=XENO-SIR-MD&bg_color=0d1117&title_color=E63946&text_color=c9d1d9&icon_color=E63946&border_color=30363d&border_radius=10" alt="XENO-SIR-MD" />
+  <a href="https://github.com/Adixthyan/Adixthyan">
+    <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Adixthyan&repo=Adixthyan&bg_color=0d1117&title_color=E63946&text_color=c9d1d9&icon_color=E63946&border_color=30363d&border_radius=10" alt="Adixthyan" />
   </a>
 </div>
 
@@ -118,7 +118,16 @@
 
 <div align="center">
   <h2>My Contributions</h2>
+
+  <img src="https://img.shields.io/badge/CONTRIBUTIONS_IN_THE_LAST_YEAR-983-5c0a14?style=for-the-badge&logo=github&labelColor=0d1117" alt="983 contributions in the last year" />
+
+  <br/><br/>
+
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Adixthyan/XENO-SIR-MD/refs/heads/output/github-snake-dark.svg" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adixthyan&bg_color=0d1117&color=E63946&line=E63946&point=ffffff&area=true&area_color=5c0a14&hide_border=true&radius=10" alt="contribution graph" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:5c0a14,100:000000&height=3&section=header" width="100%" alt="divider" />
